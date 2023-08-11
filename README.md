@@ -8,3 +8,5 @@ I'm a college student developing FiveM scripts as a hobby, and also the owner of
 # Support me
 
 Support me directly through [Ko-fi](https://ko-fi.com/kloudyzxc), [buymeacoffee.com](https://bmc.link/kloudzxc), or [PayPal](https://paypal.me/MatthewMartin277353?country.x=PH&locale.x=en_US).
+
+Check out my [Tebex](https://kloud-development.tebex.io/) store!
