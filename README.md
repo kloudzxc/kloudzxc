@@ -1,5 +1,5 @@
 # About me
-I'm a college student developing FiveM scripts as a hobby, and also the owner of the youtube channel @kloud3672. I do basic to advanced coding projects like optimization or creating a fully customized script based on your liking.
+I'm a college student developing FiveM scripts as a hobby, and also the owner of the youtube channel @kloudyzxc. I do basic to advanced coding projects like optimization or creating a fully customized script based on your liking.
 
 ###
 
