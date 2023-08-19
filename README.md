@@ -1,6 +1,3 @@
-# About me
-I'm a college student developing FiveM scripts as a hobby, and also the owner of the youtube channel @kloudyzxc. I do basic to advanced coding projects like optimization or creating a fully customized script based on your liking.
-
 ###
 
 ![Discord Shield](https://discordapp.com/api/guilds/1131198002976014377/widget.png?style=shield)
